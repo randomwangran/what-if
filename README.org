@@ -1,0 +1,4 @@
+what-if
+outputs from reading: https://github.com/higham/what-is
+
+* What Is a Condition Number?
